@@ -9,6 +9,10 @@ buildNumber.properties
 .mvn/timing.properties
 
 output/
+output/*
 
 .classpath
 .settings/
+.project
+
+LICENSE
